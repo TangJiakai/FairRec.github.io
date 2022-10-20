@@ -1,0 +1,7 @@
+I"�<!-- - [<font color="DarkOrchid">' </font>\|<font color="DarkSalmon"> </font>]() \| <font color="Violet">[ Fairness +  Fairness]</font> \| [<font color="DeepPink">知乎</font>]() -->
+<ul>
+  <li><a href="https://dl.acm.org/doi/10.1145/3292500.3330691"><font color="DarkOrchid">KDD'19 </font>|<font color="DarkSalmon"> Fairness-Aware Ranking in Search &amp; Recommendation Systems with Application to LinkedIn Talent Search</font></a> | <font color="Violet">[Group Fairness + Item Fairness]</font> | <a href="https://zhuanlan.zhihu.com/p/467143453"><font color="DeepPink">知乎</font></a></li>
+  <li><a href="https://dl.acm.org/doi/abs/10.1145/3109859.3109887?casa_token=zG5w6bgEsOgAAAAA:qF8QXuVlSVPBuT0MUbwVRA9Lq_iYQQrOukpZI6agHjR-9L03j-ysVfQKZ262Bn_0M_xzrzngTd7Mdw"><font color="DarkOrchid">RecSys'17 </font>|<font color="DarkSalmon"> Fairness-Aware Group Recommendation with Pareto-Efficiency</font></a> | <font color="Violet">[Individual Fairness + Item Fairness]</font> | <a href="https://zhuanlan.zhihu.com/p/481448033"><font color="DeepPink">知乎</font></a></li>
+  <li><a href=""><font color="DarkOrchid">' </font>|<font color="DarkSalmon"> Ensuring Fairness in Group Recommendations by Rank-Sensitive Balancing of Relevance</font></a> | <font color="Violet">[Individual Fairness +  Fairness]</font> | <a href="https://zhuanlan.zhihu.com/p/437890312"><font color="DeepPink">知乎</font></a></li>
+</ul>
+:ET

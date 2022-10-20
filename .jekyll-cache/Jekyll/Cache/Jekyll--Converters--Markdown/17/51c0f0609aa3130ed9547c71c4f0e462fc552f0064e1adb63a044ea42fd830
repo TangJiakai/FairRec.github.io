@@ -1,0 +1,47 @@
+I"Ñ<h1 id="papers">Papers</h1>
+<p>Organize Fairness-In-Recommendation-System into three categories:</p>
+
+<ul>
+  <li>
+    <font color="Brown">Pre-Processing</font>
+    <blockquote>
+      <p>TBD</p>
+    </blockquote>
+  </li>
+  <li>
+    <font color="Brown">In-Processing</font>
+    <ul>
+      <li><a href="./htmls/Adversary-Learning.html"><font color="#159957">Adversary Learning</font></a></li>
+      <li><a href="#"><font color="#159957">Regularization and Constrained Optimization</font></a></li>
+      <li><a href="#"><font color="#159957">Reinforcement Learning</font></a></li>
+      <li><a href="#"><font color="#159957">Others</font></a></li>
+    </ul>
+  </li>
+  <li>
+    <font color="Brown">Post-Processing</font>
+    <ul>
+      <li><a href="#"><font color="#159957">Slot-wise Re-ranking</font></a></li>
+      <li><a href="#"><font color="#159957">User-wise Re-ranking</font></a></li>
+      <li><a href="#"><font color="#159957">Global-wise Re-ranking</font></a></li>
+    </ul>
+  </li>
+  <li><a href="./htmls/Survey.html"><font color="DarkOrange">Survey</font></a></li>
+</ul>
+
+<p>Simultaneously, these papers are also marked with some criteria:</p>
+<ul>
+  <li>
+    <font color="Violet">Group Fairness vs. Individual Fairness</font>
+  </li>
+  <li>
+    <font color="Violet">User Fairness vs. Item Fairness</font>
+  </li>
+</ul>
+
+<h1 id="related-resources">Related Resources</h1>
+
+<!-- Text can be **bold**, _italic_, or ~~strikethrough~~.
+
+[Link to another page](./another-page.html). -->
+
+:ET

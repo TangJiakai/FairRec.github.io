@@ -1,0 +1,41 @@
+I"Ö<h1 id="papers">Papers</h1>
+<p>Organize Fairness-In into several categories:</p>
+
+<ul>
+  <li>Pre-Processing
+    <blockquote>
+      <p>TBD</p>
+    </blockquote>
+  </li>
+  <li>In-Processing
+    <ul>
+      <li><a href="./htmls/Adversary-Learning.html"><font color="#159957">Adversary Learning</font></a></li>
+      <li><a href="#"><font color="#159957">Regularization and Constrained Optimization</font></a></li>
+      <li><a href="#"><font color="#159957">Reinforcement Learning</font></a></li>
+      <li><a href="#"><font color="#159957">Others</font></a></li>
+    </ul>
+  </li>
+  <li>Post-Processing
+    <ul>
+      <li><a href="#"><font color="#159957">Slot-wise Re-ranking</font></a></li>
+      <li><a href="#"><font color="#159957">User-wise Re-ranking</font></a></li>
+      <li><a href="#"><font color="#159957">Global-wise Re-ranking</font></a></li>
+    </ul>
+  </li>
+</ul>
+
+<p>Simultaneously, these papers are also marked with some criteria:</p>
+<ul>
+  <li>
+    <font color="Violet">Group Fairness vs. Individual Fairness</font>
+  </li>
+  <li>
+    <font color="Violet">User Fairness vs. Item Fairness</font>
+  </li>
+</ul>
+
+<!-- Text can be **bold**, _italic_, or ~~strikethrough~~.
+
+[Link to another page](./another-page.html). -->
+
+:ET

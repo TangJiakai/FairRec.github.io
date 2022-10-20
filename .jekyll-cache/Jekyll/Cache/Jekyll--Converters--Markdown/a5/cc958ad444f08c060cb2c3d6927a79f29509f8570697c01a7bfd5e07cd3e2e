@@ -1,0 +1,59 @@
+I"g
+<h1 id="papers">Papers</h1>
+<p>Organize Fairness-In-Recommendation-System into three categories:</p>
+
+<ul>
+  <li>
+    <font color="Brown">Pre-Processing</font>
+    <ul>
+      <li><a href="./htmls/Re-sampling.html"><font color="#159957">Re-sampling</font></a></li>
+      <li><a href="./htmls/Data-Augmentation.html"><font color="#159957">Data Augmentation</font></a></li>
+      <li><a href="./htmls/Pre-Re-weighing.html"><font color="#159957">Re-weighing</font></a></li>
+      <li><a href="./htmls/"><font color="#159957">Influence Function</font></a></li>
+    </ul>
+  </li>
+  <li>
+    <font color="Brown">In-Processing</font>
+    <ul>
+      <li><a href="./htmls/Adversary-Learning.html"><font color="#159957">Adversary Learning</font></a></li>
+      <li><a href="./htmls/Regularization.html"><font color="#159957">Regularization and Constrained Optimization</font></a></li>
+      <li><a href="./htmls/Reinforcement%20Learning.html"><font color="#159957">Reinforcement Learning</font></a></li>
+      <li><a href="./htmls/In-Re-weighing.html"><font color="#159957">Re-weighing</font></a></li>
+      <li><a href="./htmls/AutoEncoder.html"><font color="#159957">AutoEncoder</font></a></li>
+      <li><a href="./htmls/Causal%20Inference.html"><font color="#159957">Causal Inference</font></a></li>
+      <li><a href="./htmls/In-Others.html"><font color="#159957">Others</font></a></li>
+    </ul>
+  </li>
+  <li>
+    <font color="Brown">Post-Processing</font>
+    <ul>
+      <li><a href="./htmls/Slot-wise.html"><font color="#159957">Slot-wise Re-ranking</font></a></li>
+      <li><a href="./htmls/User-wise.html"><font color="#159957">User-wise Re-ranking</font></a></li>
+      <li><a href="./htmls/Global-wise.html"><font color="#159957">Global-wise Re-ranking</font></a></li>
+    </ul>
+  </li>
+  <li><a href="./htmls/Survey.html"><font color="DarkOrange">Survey</font></a></li>
+</ul>
+
+<p>Simultaneously, these papers are also marked with some criteria:</p>
+<ul>
+  <li>
+    <font color="Violet">Group Fairness vs. Individual Fairness</font>
+  </li>
+  <li>
+    <font color="Violet">User Fairness vs. Item Fairness</font>
+  </li>
+</ul>
+
+<h1 id="related-resources">Related Resources</h1>
+<ul>
+  <li><a href="https://www.yongkaiwu.com/FairAI/conference.html"><font color="DarkSlateGrey">Fairness in AI</font></a></li>
+  <li><a href="https://github.com/jiawei-chen/RecDebiasing"><font color="DarkSlateGrey">Recommendation Debiasing</font></a></li>
+  <li><a href="https://zhuanlan.zhihu.com/p/468962221"><font color="DarkSlateGrey">Datasets</font></a></li>
+</ul>
+
+<!-- Text can be **bold**, _italic_, or ~~strikethrough~~.
+
+[Link to another page](./another-page.html). -->
+
+:ET
