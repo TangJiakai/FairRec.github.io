@@ -1,7 +1,7 @@
 ---
 layout: subpage
 title: Fairness in Recommendation System
-description: User-wise Re-ranking (Post-Processing)
+description: Slot-wise Re-ranking (Post-Processing)
 ---
 
 <!-- - [<font color="DarkOrchid">' </font>\|<font color="DarkSalmon"> </font>]() \| <font color="Violet">[ Fairness +  Fairness]</font> \| [<font color="DeepPink">知乎</font>]() -->
