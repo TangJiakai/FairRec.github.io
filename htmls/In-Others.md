@@ -9,6 +9,7 @@ description: Others (In-Processing)
 
 
 # Other Fields
+- [<font color="DarkOrchid">WWW'23 </font>\|<font color="DarkSalmon"> Fairly Adaptive Negative Sampling for Recommendations</font>](https://arxiv.org/abs/2302.08266) \| <font color="Violet">[Group Fairness + Item Fairness]</font> \| [<font color="DeepPink">知乎</font>](https://zhuanlan.zhihu.com/p/609457066?)
 - [<font color="DarkOrchid">Arxiv'23 </font>\|<font color="DarkSalmon"> Mitigating Algorithmic Bias with Limited Annotations</font>](https://arxiv.org/abs/2207.10018) \| <font color="Violet">[Group Fairness + User Fairness]</font>
 - [<font color="DarkOrchid">22'SIGIR </font>\|<font color="DarkSalmon"> Explainable Fairness in Recommendation </font>](https://arxiv.org/abs/2204.11159) \| <font color="Violet">[Group Fairness + Item Fairness]</font>
 - [<font color="DarkOrchid">ICML'22 </font>\|<font color="DarkSalmon"> Fair Representation Learning through Implicit Path Alignment </font>](https://arxiv.org/abs/2205.13316) \| <font color="Violet">[Group Fairness + User Fairness]</font> \| [<font color="DeepPink">知乎</font>](https://zhuanlan.zhihu.com/p/589072873)
